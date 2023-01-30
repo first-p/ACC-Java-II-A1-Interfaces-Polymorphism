@@ -43,14 +43,5 @@ public class PieceWorker extends Employee {
     public double earnings(){
         return getWage() * getPiecesMade();
     }
-    //return string representation of PieceWorker object
-    @Override
-    public String toString(){
-        return String.format("%s: %s%n%s: $%,.2f; %s: %.2f",
-                "piece worker", super.toString(),
-                "pieces made", getPiecesMade(),
-                "wage", getWage());
-    }
-    
 } //end class PieceWorker
 
