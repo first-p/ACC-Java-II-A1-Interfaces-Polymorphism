@@ -85,7 +85,7 @@ public class Program1
    //**************************************************************
    public void developerInfo()
    {
-      System.out.println("Name:    Fredrick Butoma");
+      System.out.println("Name:    Fredrick(Fred) Butoma");
       System.out.println("Course:  ITSE 2317 Intermediate Java Programming");
       System.out.println("Program: One\n\n");
 
