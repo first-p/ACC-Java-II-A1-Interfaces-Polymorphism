@@ -51,5 +51,6 @@ public class PieceWorker extends Employee {
                 "pieces made", getPiecesMade(),
                 "wage", getWage());
     }
+    
 } //end class PieceWorker
 
